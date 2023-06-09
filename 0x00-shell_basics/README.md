@@ -1,1 +1,1 @@
-Moving a flie to a different directory
+Deleting a file from the command line

@@ -1,1 +1,1 @@
-Directory deletion from parent
+Moving to previous directory

@@ -1,1 +1,1 @@
-copy and update files to directory
+Moving everything

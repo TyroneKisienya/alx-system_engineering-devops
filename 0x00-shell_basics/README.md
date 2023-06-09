@@ -1,1 +1,1 @@
-Displaying hidden items in long format
+Listing items with owners by side

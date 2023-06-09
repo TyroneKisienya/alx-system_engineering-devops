@@ -1,1 +1,1 @@
-Deleting a file from the command line
+Directory deletion from parent

@@ -7,3 +7,4 @@
 16.pattern
 17.pattern
 18.letters
+19.Replace

@@ -13,3 +13,4 @@
 22.delimiter
 100.emptiness
 101.only gifs
+102.Decoder

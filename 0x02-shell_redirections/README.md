@@ -3,3 +3,4 @@
 12.display recent files
 13.uniqueness
 14.Scanning
+15.counter

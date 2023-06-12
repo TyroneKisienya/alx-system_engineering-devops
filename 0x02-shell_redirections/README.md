@@ -12,3 +12,4 @@
 21.Reverse
 22.delimiter
 100.emptiness
+101.only gifs

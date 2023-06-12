@@ -8,3 +8,4 @@
 17.pattern
 18.letters
 19.Replace
+20.deletion

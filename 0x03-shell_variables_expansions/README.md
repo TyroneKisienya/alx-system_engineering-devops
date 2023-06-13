@@ -15,3 +15,4 @@
 14.Hex
 \n16.encoding
 \n16.printformat
+\n15.Encoder

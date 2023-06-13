@@ -13,3 +13,5 @@
 \n12.Comb
 \n13.FSpecify
 14.Hex
+\n16.encoding
+\n16.printformat

@@ -4,3 +4,4 @@
 \n3.count
 \n4.gvars
 \n5.lvars
+\n6.CVar

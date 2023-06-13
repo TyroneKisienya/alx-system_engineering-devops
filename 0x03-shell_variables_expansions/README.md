@@ -8,3 +8,4 @@
 \n7.GVar
 \n8.add
 \n9.calEnv
+\n10.power

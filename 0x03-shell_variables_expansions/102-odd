@@ -1,2 +1,2 @@
 #!/bin/bash
-read line && echo "$line" && ./102-odd
+read line echo "$line" ./102-odd
